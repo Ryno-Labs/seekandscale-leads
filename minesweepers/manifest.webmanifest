@@ -1,0 +1,13 @@
+{
+  "name": "Minesweepers Pet Waste Removal",
+  "short_name": "Minesweepers",
+  "description": "Dog waste removal in Round Rock, Georgetown, Hutto & Pflugerville. Text to schedule.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15634a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
